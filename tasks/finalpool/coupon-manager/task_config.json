@@ -1,0 +1,6 @@
+{
+  "task_name": "coupon-manager",
+  "status": "implemented",
+  "needed_mcp_servers": [],
+  "needed_local_tools": ["claim_done"]
+}

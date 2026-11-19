@@ -1,0 +1,6 @@
+{
+  "task_name": "cms-builder",
+  "status": "implemented",
+  "needed_mcp_servers": [],
+  "needed_local_tools": ["claim_done"]
+}

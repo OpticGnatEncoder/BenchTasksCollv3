@@ -1,0 +1,6 @@
+{
+  "task_name": "follow-up-reminder",
+  "status": "implemented",
+  "needed_mcp_servers": [],
+  "needed_local_tools": ["claim_done"]
+}
